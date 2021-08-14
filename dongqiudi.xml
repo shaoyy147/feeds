@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://shaoyy147.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-08-14T12:26:05.499Z</updated>
+    <id>https://www.dongqiudi.com/special/48</id>
+    <title>懂球帝早报</title>
+    <updated>2021-08-14T12:26:05.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.dongqiudi.com/special/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[早报：新球迷在喊开挂/翻车，老球迷早就习以为常 (懂球帝早报)]]></title>
+        <title type="html"><![CDATA[早报：新球迷在喊开挂/翻车，老球迷早就习以为常]]></title>
         <id>https://www.dongqiudi.com/archive/2209947.html</id>
         <link href="https://www.dongqiudi.com/archive/2209947.html"/>
         <updated>2021-08-14T12:26:02.809Z</updated>
