@@ -1,8 +1,8 @@
 [dongqiudi]
 title = "懂球帝早报"
-url = "https://www.dongqiudi.com/special/48"
-entrySelector = ".special ul>li"
-titleSelector = "h3"
-linkSelector = "h3 a"
+url = "https://node2.feed43.com/2260814780532368.xml"
+entrySelector = ".feedmescott"
+titleSelector = "span"
+linkSelector = "a"
 
 
