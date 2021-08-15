@@ -6,3 +6,9 @@ titleSelector = "title"
 linkSelector = "link"
 
 
+[test]
+title = "test"
+url = "https://rsshub.uneasy.win/yystv/category/recommend"
+entrySelector = "item"
+titleSelector = "title"
+linkSelector = "link"
