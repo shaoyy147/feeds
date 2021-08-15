@@ -1,7 +1,7 @@
 [dongqiudi]
 title = "懂球帝早报"
 url = "https://node2.feed43.com/2260814780532368.xml"
-entrySelector = ".feedmescott"
+entrySelector = ".feedmescotty"
 titleSelector = "span"
 linkSelector = "a"
 
