@@ -4,11 +4,3 @@ url = "https://node2.feed43.com/5871044672466123.xml"
 entrySelector = "item"
 titleSelector = "title"
 linkSelector = "link"
-
-
-[test]
-title = "test"
-url = "https://rsshub.uneasy.win/yystv/category/recommend"
-entrySelector = "item"
-titleSelector = "title"
-linkSelector = "link"
